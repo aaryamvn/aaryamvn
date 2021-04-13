@@ -1,6 +1,6 @@
 ### I'm the fullstackslayer.
 
-✨ Im passionate for both backend and frontend development
+✨ Im passionate for full stack engineering, and have a good taste for UI 
 <br>
 🌱 I’m currently learning data science 
 <br>
