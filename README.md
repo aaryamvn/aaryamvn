@@ -6,7 +6,7 @@
 <br>
 👯 I’m looking to collaborate on an app that predicts educational outcome
 <br>
-💻 Im Currently Working on <a href="https://github.com/Elonic">Elonic</a>, A Developer Networking Platform, and an app to predict educational outcome
+💻 Im Currently Working on <a href="https://github.com/Elonic">Elonic</a>, A Developer Networking Platform, and <a href="https://github.com/Covisource">Covisource</a>
 <br>
 💬 Ask me about UI/UX, Node JS, React, Next JS, etc.
 <br>
