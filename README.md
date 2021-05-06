@@ -2,7 +2,7 @@
 
 ✨ Im passionate for full stack engineering, and have a good taste for UI 
 <br>
-🌱 I’m currently learning flutter and data science 
+🌱 I’m currently learning flutter, rust, and data science 
 <br>
 👯 I’m looking to collaborate on an app that predicts educational outcome
 <br>
