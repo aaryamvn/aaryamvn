@@ -1,12 +1,10 @@
 ## I'm the fullstackslayer.
 
-✨ Im passionate for full stack engineering, and have a good taste for UI 
+✨ I am a full stack engineer and UI designer
 <br>
 🌱 I’m currently learning flutter, rust, and data science 
 <br>
 💻 Im Currently Working and Looking to Collaborate on <a href="https://github.com/Covisource">Covisource</a>
-<br>
-💬 Ask me about UI/UX, Node JS, React, Next JS, etc.
 <br>
 😄 Pronouns: He/Him
 <br>
@@ -16,7 +14,7 @@
 
 ### Languages and Frameworks
 
-React, React Native, Flutter, Dart, Typescript, Tailwind, Bootstrap, Vue, Node, Python, Django, Flask, Elixir
+React, React Native, Next JS, Flutter, Dart, Typescript, Tailwind, Bootstrap, Vue, Node, Python, Django, Flask, Elixir
 
 ### Favorite API's
 
