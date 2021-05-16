@@ -14,7 +14,7 @@
 
 ### Languages and Frameworks
 
-React, React Native, Next JS, Flutter, Dart, Typescript, Tailwind, Bootstrap, Vue, Node, Python, Django, Flask, Elixir
+React, React Native, Next JS, Flutter, Dart, Typescript, Tailwind, Bootstrap, Vue, Node, Python, Django, Flask, Elixir, PHP
 
 ### Favorite API's
 
