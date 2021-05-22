@@ -34,4 +34,3 @@ React, React Native, Next JS, Flutter, Dart, Typescript, Tailwind, Bootstrap, Vu
 1. I loathe History
 2. I have 40 VS Code extensions installed 😬
 3. Typescript is my favorite language
-4. Im learning French!
