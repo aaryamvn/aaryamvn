@@ -26,7 +26,8 @@ React, React Native, Next JS, Flutter, Dart, Typescript, Tailwind, Bootstrap, Vu
 
 1. MongoDb
 2. FaunaDb
-3. Firebase (For Hackathons Only 😉)
+3. Postgres Sql
+4. Firebase (My Hackathon Goto ;-;)
 
 ### Some Other Stuff You Should Know About Me
 
