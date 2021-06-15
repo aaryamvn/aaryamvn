@@ -4,7 +4,7 @@
 <br>
 🌱 I’m currently learning flutter, rust, and data science 
 <br>
-💻 Im Currently Working and Looking to Collaborate on a project discovery and management platform!
+💻 Im Currently Working and Looking to Collaborate on <a href="https://github.com/hydralite/hydralite">Hydralite</a>!
 <br>
 😄 Pronouns: He/Him
 <br>
