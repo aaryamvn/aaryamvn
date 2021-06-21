@@ -14,8 +14,7 @@
 <br>
 
 
-### Languages and Frameworks
-
-React, React Native, Next JS, Flutter, Dart, Typescript, Tailwind, Bootstrap, Vue, Node, Python, Django, Flask, Elixir, PHP, Postgres SQL, MySql, Fauna Db, Mongo Db, Firebase
+### Technologies
+React, React Native, Next JS, Flutter, Dart, Typescript, Tailwind, Bootstrap, Vue, Node, Python, Django, Flask, Elixir, PHP, Java, Postgres SQL, MySql, Fauna Db, Mongo Db, Firebase, Prisma, TypeOrm, Mongoose
 
 
