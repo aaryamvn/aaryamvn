@@ -8,7 +8,7 @@
 <br>
 😄 Pronouns: He/Him
 <br>
-⚡ Fun fact: Im 13!
+⚡ Fun fact: I entered the world of software development at the age of 7!
 <br>
 👨‍🔧 Favorite language: Typescript
 <br>
