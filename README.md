@@ -15,6 +15,6 @@
 
 
 ### Technologies
-React, React Native, Next JS, Flutter, Dart, Typescript, EJS, Handlebars, Pug, Tailwind, Bootstrap, Vue, Node, Rust, Python, Django, Flask, Elixir, PHP, Java, Postgres SQL, MySql, Fauna Db, Mongo Db, Firebase, Prisma, TypeOrm, Mongoose
+React, React Native, Next JS, Flutter, Dart, Typescript, EJS, Handlebars, Pug, Tailwind, Bootstrap, Vue, Node, Rust, Python, Django, Flask, Elixir, PHP, Java, Postgres SQL, MySql, Fauna Db, Mongo Db, Firebase, Prisma, TypeOrm, Mongoose, Discord JS
 
 
