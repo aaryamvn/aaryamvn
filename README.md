@@ -2,9 +2,9 @@
 
 ✨ I am a full stack engineer and UI designer
 <br>
-🌱 I’m currently learning flutter, rust, and data science 
+🌱 I’m currently learning rust, golang and WebRTC
 <br>
-💻 Im Currently Working and Looking to Collaborate on <a href="https://github.com/hydralite/hydralite">Hydralite</a>!
+💻 I'm actively building <a href="https://oxylearn.live">Oxylearn</a>, the Fiverr for educators
 <br>
 😄 Pronouns: He/Him
 <br>
@@ -15,6 +15,6 @@
 
 
 ### Technologies
-React, React Native, Next JS, Flutter, Dart, Typescript, EJS, Handlebars, Pug, Tailwind, Bootstrap, Vue, Node, Rust, Python, Django, Flask, Elixir, PHP, Java, Postgres SQL, MySql, Fauna Db, Mongo Db, Firebase, Prisma, TypeOrm, Mongoose, Discord JS, Redis, Docker
+React, React Native, Next JS, Flutter, Dart, Typescript, EJS, Handlebars, Pug, Tailwind, Bootstrap, Vue, Node, Rust, Python, Django, Flask, Elixir, PHP, Java, Postgres SQL, MySql, Fauna Db, Mongo Db, Firebase, Prisma, TypeOrm, Mongoose, Discord JS, Redis, Docker, Express, Fastify
 
 
