@@ -6,7 +6,7 @@
 <br>
 💻 I'm actively building <a href="https://oxylearn.live">Oxylearn</a>, the Fiverr for educators
 <br>
-😄 Pronouns: He/Him
+😄 Pronouns: He/Him/They
 <br>
 ⚡ Fun fact: I entered the world of software development at the age of 7!
 <br>
