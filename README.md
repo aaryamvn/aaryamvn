@@ -1,6 +1,6 @@
 <img src="https://github.com/fullstackslayer/fullstackslayer/blob/main/Profile%20Banner%20GH.png?raw=true" />
 
-✨ I am a full stack engineer and UI designer
+✨ I am a Full Stack Developer, UI/UX Designer, and Entrepreneur
 <br>
 🌱 I’m currently learning rust, golang and WebRTC
 <br>
