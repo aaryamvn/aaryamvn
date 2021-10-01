@@ -4,7 +4,7 @@
 <br>
 🌱 I’m currently learning rust, golang and WebRTC
 <br>
-💻 I'm actively building <a href="https://oxylearn.live">Oxylearn</a> - the service to learn from programming instructors in real-time
+💻 I'm actively building <a href="https://aliantorhq.com">Aliantor</a> - A radically efficient way for working professionals to get tech advice
 <br>
 😄 Pronouns: He/Him
 <br>
