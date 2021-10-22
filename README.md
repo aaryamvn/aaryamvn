@@ -12,8 +12,8 @@
 ### Currently Working on
 
 
-- **<a href="https://aliantorhq.com">Aliantor</a>** 
-  - An upcoming platform for working professionals to obtain tech guidance
+- **<a href="https://triffle.co">Triffle</a>** 
+  - A platform helping professionals and rookies alike get valuable tech guidance from reputable mentors.
   - Founder; June 2021 - Present
 
 - **<a href="https://discord.gg/y6ckRNNTex">Elonic</a>**
