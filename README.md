@@ -13,7 +13,7 @@
 
 
 - **<a href="https://triffle.co">Triffle</a>** 
-  - A platform helping professionals and rookies alike get valuable tech guidance from reputable mentors.
+  - A platform helping professionals and rookies alike get valuable tech guidance from reputable advisors.
   - Founder; June 2021 - Present
 
 - **<a href="https://discord.gg/y6ckRNNTex">Elonic</a>**
