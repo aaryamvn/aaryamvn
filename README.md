@@ -11,6 +11,9 @@
 
 ### Currently Working on
 
+- **<a href="https://polenhq.com">Polen</a>** 
+  - A Community-based issue tracking tool for your open source projects.
+  - Founder; November 2021 - Present
 
 - **<a href="https://triffle.co">Triffle</a>** 
   - A platform helping professionals and rookies alike get valuable tech guidance from reputable advisors.
