@@ -3,8 +3,8 @@
 ## About Me
 
 - Full Stack Developer, UI/UX Designer, Entrepreneur, Mentor, and Writer
-- Delved into programming at the age of 7
-- Hobbies include overdosing coffee, barely sleeping, and blasting music
+- Started programming at the age of 7
+- Hobbies include consuming coffee in excessive amounts, barely sleeping, and vibing to mgk
 - Typescript is bae
 
 ## Endeavours
