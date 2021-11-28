@@ -22,6 +22,6 @@
   - Founder; April 2021 - Present
 
 ## Technologies
-React, React Native, Next JS, Typescript, EJS, Tailwind, Bootstrap, Node, Python, Django, PHP, Java, Postgres SQL, Mongo Db, Firebase, Prisma, TypeOrm, Mongoose, Redis, Docker, Express, Fastify
+React, React Native, Next JS, Typescript, EJS, Tailwind, Bootstrap, Node, Python, Django, PHP, Java, Postgres SQL, Mongo Db, Firebase, Prisma, TypeOrm, Decotix, Mongoose, Redis, Docker, Express, Fastify
 
 
