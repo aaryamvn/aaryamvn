@@ -37,7 +37,7 @@ export default function Home() {
         </div>
 
         {/* Heading */}
-        <h1 className="sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font__poppins font-extrabold text-left">
+        <h1 className="text-black2 dark:text-white2 sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font__poppins font-extrabold text-left">
           Hey, I'm <span className="text-accent">Aaryaman</span>
         </h1>
 
