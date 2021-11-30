@@ -1,5 +1,8 @@
 import { useContext } from "react";
-import { DmMeButton } from "../components/Home/DmMeButton";
+import { UilGithub } from "../components/icons/UilGithub";
+import { UilInstagram } from "../components/icons/UilInstagram";
+import { UilTwitter } from "../components/icons/UilTwitter";
+import { DmMeButton } from "../components/parts/DmMeButton";
 import { ThemeContext } from "../modules/ThemeProvider";
 
 export default function Home() {
@@ -13,6 +16,25 @@ export default function Home() {
     >
       <div className="flex flex-col gap-7 container mx-auto w-full md:max-w-[80%] lg:max-w-[70%] xl:max-w-[40rem]">
         {/* Socials */}
+        <div className="flex gap-4">
+          <Social
+            Icon={UilGithub}
+            href="https://github.com/fullstackslayer"
+            title="Github"
+          />
+
+          <Social
+            Icon={UilTwitter}
+            href="https://twitter.com/fullstackslayer"
+            title="Twitter"
+          />
+
+          <Social
+            Icon={UilInstagram}
+            href="https://instagram.com/fullstackslayer"
+            title="Instagram"
+          />
+        </div>
 
         {/* Heading */}
         <h1 className="sm:text-2xl md:text-3xl lg:text-4xl xl:text-5xl font__poppins font-extrabold text-left">
@@ -20,7 +42,7 @@ export default function Home() {
         </h1>
 
         {/* Body */}
-        <p className="sm:text-lg md:text-[0.5rem] lg:text-xl xl:text-2xl font-medium text-left">
+        <p className="text-black2 dark:text-white2 sm:text-lg md:text-[0.5rem] lg:text-xl xl:text-2xl font-medium text-left tracking-wider !leading-[1.5]">
           I’m a middle-schooler aspiring to build products that{" "}
           <strong>make an impact</strong>. I design and implement elegant
           software with the help of modern tools.
@@ -32,3 +54,19 @@ export default function Home() {
     </div>
   );
 }
+
+const Social = ({
+  Icon,
+  href,
+  title,
+}: {
+  Icon: any;
+  href: string;
+  title: string;
+}) => {
+  return (
+    <a href={href} title={title} target="_blank">
+      <Icon className="fill-[#070A0E] dark:fill-[#FFFFFF] hover:opacity-[0.6] duration-100 ease-in h-[1.7rem] w-[1.7rem]" />
+    </a>
+  );
+};
