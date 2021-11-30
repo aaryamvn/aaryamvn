@@ -1,4 +1,4 @@
-<img src="https://github.com/fullstackslayer/fullstackslayer/blob/main/Profile%20Banner%20GH.png?raw=true" />
+<img src="https://github.com/fullstackslayer/fullstackslayer/blob/main/public/ProfileBanner.png?raw=true" />
 
 ## About Me
 
@@ -7,13 +7,15 @@
 - Hobbies include consuming coffee in excessive amounts, barely sleeping, and vibing to mgk
 - Typescript is bae
 
-## *Currently* Working On
+## _Currently_ Working On
 
-- **<a href="https://polenhq.com">Polen</a>** 
+- **<a href="https://polenhq.com">Polen</a>**
+
   - A Community-based issue tracking tool for your open source projects.
   - Founder; November 2021 - Present
 
-- **<a href="https://triffle.co">Triffle</a>** 
+- **<a href="https://triffle.co">Triffle</a>**
+
   - A platform helping professionals and rookies alike get valuable tech guidance from reputable advisors.
   - Founder; June 2021 - Present
 
@@ -22,6 +24,5 @@
   - Founder; April 2021 - Present
 
 ## Technologies
+
 React, React Native, Next JS, Typescript, EJS, Tailwind, Bootstrap, Node, Python, Django, PHP, Java, Postgres SQL, Mongo Db, Firebase, Prisma, TypeOrm, Decotix, Mongoose, Redis, Docker, Express, Fastify
-
-
