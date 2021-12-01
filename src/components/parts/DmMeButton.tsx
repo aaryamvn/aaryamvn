@@ -44,13 +44,26 @@ export const DmMeButton = () => {
         type="error"
       />
 
-      {/* DM Me Button */}
+      {/* DM Me Button Light */}
       <Button
         clickHandler={clickHandler}
         curvature="low"
-        bg="accent"
+        bg="dark"
         fg="light"
         size="h-[2.7rem] w-[8rem] lg:h-[3rem] lg:w-[10rem]"
+        className="block dark:hidden"
+      >
+        {"DM Me!"}
+      </Button>
+
+      {/* DM Me Button Dark */}
+      <Button
+        clickHandler={clickHandler}
+        curvature="low"
+        bg="light"
+        fg="dark"
+        size="h-[2.7rem] w-[8rem] lg:h-[3rem] lg:w-[10rem]"
+        className="hidden dark:block"
       >
         {"DM Me!"}
       </Button>
