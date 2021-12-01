@@ -1,7 +1,7 @@
 import { useContext } from "react";
-import { UilGithub } from "../components/icons/UilGithub";
-import { UilInstagram } from "../components/icons/UilInstagram";
-import { UilTwitter } from "../components/icons/UilTwitter";
+import { Github } from "../components/icons/Github";
+import { Instagram } from "../components/icons/Instagram";
+import { Twitter } from "../components/icons/Twitter";
 import { DmMeButton } from "../components/parts/DmMeButton";
 import { ThemeContext } from "../modules/ThemeProvider";
 
@@ -18,19 +18,19 @@ export default function Home() {
         {/* Socials */}
         <div className="flex gap-4">
           <Social
-            Icon={UilGithub}
+            Icon={Github}
             href="https://github.com/fullstackslayer"
             title="Github"
           />
 
           <Social
-            Icon={UilTwitter}
+            Icon={Twitter}
             href="https://twitter.com/fullstackslayer"
             title="Twitter"
           />
 
           <Social
-            Icon={UilInstagram}
+            Icon={Instagram}
             href="https://instagram.com/fullstackslayer"
             title="Instagram"
           />
