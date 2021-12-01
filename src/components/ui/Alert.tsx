@@ -12,7 +12,7 @@ export const Alert: React.FC<AlertPropTypes> = ({ type, message, show }) => {
     <div
       className={`alert absolute z-10 text-sm flex items-center justify-center ${
         type === "success" ? "bg-[#5FFF78]" : "bg-[#fa7575]"
-      } rounded p-2 h-16 top-8 right-8`}
+      } rounded p-5 h-16 top-8 right-8`}
       style={{
         display: `${show ? "flex" : "none"}`,
       }}
@@ -22,7 +22,7 @@ export const Alert: React.FC<AlertPropTypes> = ({ type, message, show }) => {
       ) : (
         <AlertCircle width={20} height={20} />
       )}{" "}
-      <p className="ml-2">{message}</p>
+      <p className="ml-4 font-semibold">{message}</p>
     </div>
   );
 };
