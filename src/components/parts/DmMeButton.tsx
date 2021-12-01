@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { DISCORD_ID } from "../../constants";
 import { Alert } from "../ui/Alert";
+import { Button } from "../ui/Button";
 
 export const DmMeButton = () => {
   const [copied, setCopied] = useState<boolean>(false);
@@ -43,12 +44,16 @@ export const DmMeButton = () => {
         type="error"
       />
 
-      <button
-        className="h-[3rem] w-[10rem] bg-accent text-white rounded-full hover:opacity-[0.6] duration-100 ease-in font__poppins font-semibold"
-        onClick={clickHandler}
+      {/* DM Me Button */}
+      <Button
+        clickHandler={clickHandler}
+        curvature="low"
+        bg="accent"
+        fg="light"
+        size="h-[2.7rem] w-[8rem] lg:h-[3rem] lg:w-[10rem]"
       >
         {"DM Me!"}
-      </button>
+      </Button>
     </>
   );
 };
