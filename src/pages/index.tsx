@@ -16,7 +16,7 @@ export default function Home() {
     >
       <div className="flex flex-col container mx-auto w-[90%] md:max-w-[60%] lg:max-w-[50%] xl:max-w-[40rem]">
         {/* Socials */}
-        <div className="flex gap-2 md:gap-4 mb-[1.5rem]">
+        <div className="flex gap-3 md:gap-4 mb-[1.5rem]">
           <Social
             Icon={Github}
             href="https://github.com/fullstackslayer"
@@ -38,11 +38,11 @@ export default function Home() {
 
         {/* Heading */}
         <h1 className="text-black2 dark:text-white2 text-3xl sm:text-4xl md:text-5xl font__poppins font-extrabold text-left !leading-[1.2] mb-[1.3rem]">
-          Hey, I'm <span className="text-accent">Aaryaman</span>
+          Hey, I'm <span className="text-accent">Aaryaman!</span>
         </h1>
 
         {/* Body */}
-        <p className="text-black2 dark:text-white2 text-md sm:text-lg lg:text-xl font-medium text-left tracking-wider !leading-[1.5] mb-[1.7rem]">
+        <p className="text-black2 dark:text-white2 text-md sm:text-lg lg:text-xl text-left tracking-wider !leading-[1.5] mb-[1.7rem]">
           I’m a middle-schooler aspiring to build products that{" "}
           <strong>make an impact</strong>. I design and implement elegant
           software with the help of modern tools.
