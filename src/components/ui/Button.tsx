@@ -1,5 +1,5 @@
 interface Props {
-  clickHandler: (e: any) => any;
+  clickHandler?: (e: any) => any;
   bg?: "accent" | "light" | "dark";
   fg?: "accent" | "light" | "dark";
   curvature?: "max" | "high" | "medium" | "low" | "none";
