@@ -1,13 +1,11 @@
-<img src="https://github.com/fullstackslayer/fullstackslayer/blob/main/public/ProfileBanner.png?raw=true" />
+<img src="https://github.com/abnodev/abnodev/blob/master/public/ProfileBanner.png" />
 
 ## About Me
 
-- Full Stack Developer, UI/UX Designer, Entrepreneur, Mentor, and Writer
+- Software Developer, UI/UX Designer, Entrepreneur, Mentor, and Writer
 - Started programming at the age of 7
-- Hobbies include consuming coffee in excessive amounts, barely sleeping, and vibing to mgk
-- Typescript is bae
 
-## _Currently_ Working On
+## Currently Working On
 
 - **<a href="https://polenhq.com">Polen</a>**
 
@@ -19,10 +17,6 @@
   - A platform helping professionals and rookies alike get valuable tech guidance from reputable advisors.
   - Founder; June 2021 - Present
 
-- **<a href="https://discord.gg/y6ckRNNTex">Elonic</a>**
-  - A community aspiring to help young minds gain well-deserved recognition for their creations.
-  - Founder; April 2021 - Present
-
-## Technologies
-
-React, React Native, Next JS, Typescript, EJS, Tailwind, Bootstrap, Node, Python, Django, PHP, Java, Postgres SQL, Mongo Db, Firebase, Prisma, TypeOrm, Decotix, Mongoose, Redis, Docker, Express, Fastify
+- **<a href="https://buildergroop.com">Buildergroop</a>**
+  - A community of young builders, trying to make an impact via innovation.
+  - Founder; December 2021 - Present
