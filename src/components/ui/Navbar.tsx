@@ -1,5 +1,7 @@
 import { AGE, LOCATION } from "~/constants";
-import Link from "next/link";
+import { useEffect, useState } from "react";
+import Sound from "react-sound";
+import { useRouter } from "next/router";
 
 export const Navbar = ({ width }: { width: string }) => {
   return (
@@ -14,7 +16,7 @@ export const Navbar = ({ width }: { width: string }) => {
         </p>
       </div>
 
-      <div className="mt-[1.3rem] flex flex-col gap-[1.5rem] relative pl-7">
+      <div className="mt-[1rem] flex flex-col relative pl-7">
         <NavElement title="about me" path="/about" />
         <NavElement title="technologies" path="/technologies" />
         <NavElement title="projects" path="/projects" />
@@ -27,24 +29,46 @@ export const Navbar = ({ width }: { width: string }) => {
 };
 
 const NavElement = ({ title, path }: { title: string; path: string }) => {
-  const active = window.location.pathname === path ? true : false;
+  const router = useRouter();
+
+  const [playStatus, setPlayStatus] = useState<
+    "PLAYING" | "STOPPED" | "PAUSED"
+  >("STOPPED");
+  const [active, setActive] = useState<boolean>(false);
+
+  useEffect(() => {
+    if (window) {
+      setActive(window.location.pathname === path ? true : false);
+    }
+  }, []);
 
   return (
     <>
-      <div className={`${active ? "font-bold" : "font-normal"} cursor-pointer`}>
-        <Link href={path}>
-          <a>{title}</a>
-        </Link>
+      <div
+        className={`${
+          active ? "font-bold bg-black1 rounded-[7px] mb-0" : "font-normal"
+        } 
+        cursor-pointer
+        hover:bg-black1 hover:rounded-[7px]
+        py-[0.5rem] pl-3 -ml-3 mr-3 mb-[0.5rem]
+        `}
+        onClick={async () => {
+          setPlayStatus("PLAYING");
+          await new Promise((resolve) => setTimeout(resolve, 300));
+          await router.push(path);
+        }}
+      >
+        {title}
       </div>
-      {active && <NavElementSelector />}
+      <Sound url="click_sound.wav" playStatus={playStatus} />
     </>
   );
 };
 
 // type SelectorPosition = ""
 
-const NavElementSelector = () => {
-  return (
-    <span className="absolute right-[-2px] w-[0.15rem] h-7 rounded-full bg-white cursor-pointer"></span>
-  );
-};
+// const NavElementSelector = () => {
+//   return (
+//     <span className="w-[0.15rem] h-7 rounded-full bg-white cursor-pointer"></span>
+//   );
+// };
