@@ -11,6 +11,7 @@ module.exports = {
       black: "#070A0E",
       black1: "#101418",
       black2: "#26364B",
+      blue: "#3988FF"
     }
   },
   variants: {
