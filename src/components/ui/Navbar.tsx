@@ -1,39 +1,34 @@
-import { AGE, LOCATION } from "~/constants";
-import { useEffect, useState } from "react";
-import Sound from "react-sound";
+import React, { useEffect, useState } from "react";
 import { useRouter } from "next/router";
+import ReactSound from "react-sound";
 
-export const Navbar = ({ width }: { width: string }) => {
+export const Navbar: React.FC<{ height: string }> = ({ height }) => {
   return (
     <div
-      className={`hidden lg:block fixed left-0 border-r-2 border-black1 ${width} h-screen`}
+      className={`w-screen flex items-center justify-between p-4 ${height} border-b border-black2`}
     >
-      <div className="flex flex-col gap-3 p-7">
-        <h1 className="font-extrabold text-[1.5rem]">Aaryaman M.</h1>
-        <p className="font-normal text-[0.8rem] text-white2">
-          {AGE}-year-old developer, designer, and entrepreneur based out of{" "}
-          {LOCATION}
-        </p>
+      <div className="flex items-center gap-7">
+        <Logo />
+        <div className="flex items-center gap-4">
+          <NavElement title="about me" path="/about" />
+          <NavElement title="technologies" path="/technologies" />
+          <NavElement title="projects" path="/projects" />
+          <NavElement title="extra" path="/etc" />
+        </div>
       </div>
-
-      <div className="mt-[1rem] flex flex-col relative pl-7">
-        <NavElement title="about me" path="/about" />
-        <NavElement title="technologies" path="/technologies" />
-        <NavElement title="projects" path="/projects" />
-        <NavElement title="thoughts and opinions" path="/thoughts" />
-        <NavElement title="articles and threads" path="/writing" />
-        <NavElement title="socials and extra" path="/extra" />
-      </div>
+      <div className=""></div>
     </div>
   );
 };
 
-const NavElement = ({ title, path }: { title: string; path: string }) => {
+const NavElement: React.FC<{ title: string; path: string }> = ({
+  title,
+  path,
+}) => {
   const router = useRouter();
 
-  const [playStatus, setPlayStatus] = useState<
-    "PLAYING" | "STOPPED" | "PAUSED"
-  >("STOPPED");
+  type playState = "PLAYING" | "STOPPED" | "PAUSED";
+  const [playStatus, setPlayStatus] = useState<playState>("STOPPED");
   const [active, setActive] = useState<boolean>(false);
 
   useEffect(() => {
@@ -45,13 +40,7 @@ const NavElement = ({ title, path }: { title: string; path: string }) => {
   return (
     <>
       <div
-        className={`${
-          active ? "font-bold bg-black1 rounded-[7px] mb-0" : "font-normal"
-        } 
-        cursor-pointer
-        hover:bg-black1 hover:rounded-[7px]
-        py-[0.5rem] pl-3 -ml-3 mr-3 mb-[0.5rem]
-        `}
+        className={`${active && ""} cursor-pointer`}
         onClick={async () => {
           setPlayStatus("PLAYING");
           await new Promise((resolve) => setTimeout(resolve, 300));
@@ -60,15 +49,15 @@ const NavElement = ({ title, path }: { title: string; path: string }) => {
       >
         {title}
       </div>
-      <Sound url="click_sound.wav" playStatus={playStatus} />
+      <ReactSound url="click_sound.wav" playStatus={playStatus} />
     </>
   );
 };
 
-// type SelectorPosition = ""
-
-// const NavElementSelector = () => {
-//   return (
-//     <span className="w-[0.15rem] h-7 rounded-full bg-white cursor-pointer"></span>
-//   );
-// };
+const Logo = () => {
+  return (
+    <a href="/">
+      <img src="/logo.svg" className="" alt="Aaryaman Maheshwari" />
+    </a>
+  );
+};
