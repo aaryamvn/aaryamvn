@@ -5,7 +5,7 @@ export default function About() {
   return (
     <Layout pageTitle="About Me">
       <div className="flex flex-col gap-1 mt-[2rem]">
-        <h2 className="font-bold text-[1.2rem]">Who Am I?</h2>
+        <h2 className="font-bold text-[1.2rem] font-mono">Who Am I?</h2>
         <p className="ml-3 text-[0.9rem] text-black1 dark:text-white1 mt-2">
           I’m a 13-year-old innovator that loves forming new connections and
           talking to like-minded folks. I’ve always had a deep love for software
@@ -17,7 +17,7 @@ export default function About() {
       </div>
 
       <div className="flex flex-col gap-1 mt-[2rem]">
-        <h2 className="font-bold text-[1.2rem]">What I’m Building</h2>
+        <h2 className="font-bold text-[1.2rem] font-mono">What I’m Building</h2>
         <p className="ml-3 text-[0.9rem] text-black1 dark:text-white1 mt-2">
           I’m working on a few consumer services and communites at the moment.
           <ul className="list-disc ml-6 mt-2 flex flex-col gap-2">

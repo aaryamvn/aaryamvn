@@ -1,4 +1,4 @@
-const Check = (props: any) => {
+export const Check = (props: React.SVGProps<SVGSVGElement>) => {
   return (
     <svg
       xmlns="http://www.w3.org/2000/svg"
@@ -14,5 +14,3 @@ const Check = (props: any) => {
     </svg>
   );
 };
-
-export default Check;

@@ -35,7 +35,7 @@ export const Button: React.FC<Props> = ({
       ${curvature === "low" && "rounded-lg"} 
 
       hover:opacity-[0.6] duration-100 ease-in 
-      font__poppins font-semibold
+       font-semibold
       
       ${className}
       `}

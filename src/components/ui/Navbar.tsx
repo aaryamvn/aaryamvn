@@ -1,11 +1,13 @@
 import React, { useEffect, useState } from "react";
 import { useRouter } from "next/router";
 import ReactSound from "react-sound";
+import { SocialRow } from "./SocialRow";
+import { SocialType } from "~/types";
 
 export const Navbar: React.FC<{ height: string }> = ({ height }) => {
   return (
     <div
-      className={`w-screen flex items-center justify-between p-4 ${height} border-b border-black1`}
+      className={`w-screen flex items-center justify-between p-5 ${height} border-b border-black1`}
     >
       <div className="flex items-center gap-7">
         <Logo />
@@ -16,7 +18,9 @@ export const Navbar: React.FC<{ height: string }> = ({ height }) => {
           <NavElement title="extra" path="/etc" />
         </div>
       </div>
-      <div className=""></div>
+      <div className="flex items-center gap-4">
+        <SocialRow Social={Social} />
+      </div>
     </div>
   );
 };
@@ -67,6 +71,14 @@ const Logo = () => {
         className="h-[2.7rem] w-[2.7rem]"
         alt="Aaryaman Maheshwari"
       />
+    </a>
+  );
+};
+
+const Social: SocialType = ({ Icon, href, title }) => {
+  return (
+    <a href={href} title={title} target="_blank">
+      <Icon className="fill-[#070A0E] dark:fill-[#FFFFFF] hover:opacity-[0.6] duration-100 ease-in h-[1.2rem] w-[1.2rem]" />
     </a>
   );
 };

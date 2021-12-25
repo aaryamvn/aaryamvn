@@ -1,6 +1,6 @@
 import * as React from "react";
 
-export const ArrowRight = (props: any) => (
+export const ArrowRight = (props: React.SVGProps<SVGSVGElement>) => (
   <svg
     xmlns="http://www.w3.org/2000/svg"
     data-name="Layer 1"

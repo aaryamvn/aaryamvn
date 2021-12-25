@@ -8,7 +8,7 @@ module.exports = {
       white: "#FFFFFF",
       white1: "#DEDEDE",
       white2: "#ECECEC",
-      black: "#070A0E",
+      black: "#010101",
       black1: "#101418",
       black2: "#26364B",
       blue: "#3988FF"
