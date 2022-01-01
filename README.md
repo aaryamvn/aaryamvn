@@ -1,22 +1,15 @@
-<img src="https://github.com/abnodev/abnodev/blob/master/public/ProfileBanner.png" />
+<img src="https://pbs.twimg.com/profile_banners/1139106079793647616/1640672983/1500x500" />
 
-## About Me
+<br>
 
-- Software Developer, UI/UX Designer, Entrepreneur, Mentor, and Writer
-- Started programming at the age of 7
+**Hey, I'm Aaryaman** - a 14 year old student based in Hyderabad, India. I'm doing my level best to produce software that makes an impact. I aspire to perfect the emotional connection between my products and their users.
 
-## Currently Working On
+I'm very passionate about design, software engineering, and entrepreneurship. Technical innovation has always had a very special place in my heart, ever since I was 8 years old.
 
-- **<a href="https://polenhq.com">Polen</a>**
+At the moment, I'm working on <a href="https://buildergroop.com">Buildergroop</a> and <a href="https://triffle.co">Triffle</a>.
 
-  - A Community-based issue tracking tool for your open source projects.
-  - Founder; November 2021 - Present
+I'd love to connect with you, Feel free to shoot me a message on any one of the following:
 
-- **<a href="https://triffle.co">Triffle</a>**
-
-  - A platform helping professionals and rookies alike get valuable tech guidance from reputable advisors.
-  - Founder; June 2021 - Present
-
-- **<a href="https://buildergroop.com">Buildergroop</a>**
-  - A community of young builders, trying to make an impact via innovation.
-  - Founder; December 2021 - Present
+- Discord - Aaryaman#0001 (Most responsive)
+- Twitter - <a href="https://twitter.com/yoabno">@yoabno</a> 
+- Email - <a href="mailto:aaryaman@triffle.co">aaryaman@triffle.co</a>
