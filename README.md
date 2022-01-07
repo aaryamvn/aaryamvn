@@ -6,7 +6,7 @@
 
 I'm very passionate about design, software engineering, and entrepreneurship. Technical innovation has always had a very special place in my heart, ever since I was 8 years old.
 
-At the moment, I'm working on <a href="https://buildergroop.com">Buildergroop</a> and <a href="https://triffle.co">Triffle</a>.
+At the moment, I'm working on <a href="https://buildergroop.com">Buildergroop</a> as well as small open source projects.
 
 I'd love to connect with you, Feel free to shoot me a message on any one of the following:
 
