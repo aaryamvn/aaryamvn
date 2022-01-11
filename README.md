@@ -12,4 +12,4 @@ I'd love to connect with you, Feel free to shoot me a message on any one of the 
 
 - Discord - Aaryaman#0001 (Most responsive)
 - Twitter - <a href="https://twitter.com/yoabno">@yoabno</a> 
-- Email - <a href="mailto:aaryaman@triffle.co">aaryaman@triffle.co</a>
+- Email - <a href="mailto:fullstackslayer@gmail.com">fullstackslayer@gmail.com</a>
