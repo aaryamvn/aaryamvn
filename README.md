@@ -1,4 +1,4 @@
-<img src="https://pbs.twimg.com/profile_banners/1139106079793647616/1640672983/1500x500" />
+<img src="https://media.discordapp.net/attachments/864826842707132446/930809278279848036/Profile_Banner_GH.png" />
 
 <br>
 
