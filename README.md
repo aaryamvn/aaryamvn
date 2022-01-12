@@ -2,13 +2,13 @@
 
 <br>
 
-**Hey, I'm Aaryaman** - a 14 year old student based in Hyderabad, India. I'm doing my level best to produce software that makes an impact. I aspire to perfect the emotional connection between my products and their users.
+**Hey, I'm Aaryaman** - a 14-year-old innovator based in Hyderabad, India. I aspire to perfect the emotional connection between my products and their users via thoughtful design and strategic planning. 
 
-I'm very passionate about design, software engineering, and entrepreneurship. Technical innovation has always had a very special place in my heart, ever since I was 8 years old.
+I'm also very passionate about software engineering and tech entrepreneurship. I've had a deep love for startups ever since I was 8 years old. 
 
-At the moment, I'm working on <a href="https://buildergroop.com">Buildergroop</a> as well as small open source projects.
+Momentarily, I'm working on <a href="https://buildergroop.com">Buildergroop</a>. It's a community enabling young innovators to learn, discuss, ideate, and build together. We're collectively establishing the future of technical innovation and we'd love for you to check us out.
 
-I'd love to connect with you, Feel free to shoot me a message on any one of the following:
+I love meeting people, Feel free to shoot me a message on any one of the following:
 
 - Discord - Aaryaman#0001 (Most responsive)
 - Twitter - <a href="https://twitter.com/yoabno">@yoabno</a> 
