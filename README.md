@@ -11,5 +11,5 @@ Momentarily, I'm working on <a href="https://buildergroop.com">Buildergroop</a>.
 I love meeting people, Feel free to shoot me a message on any one of the following:
 
 - Discord - Aaryaman#0001 (Most responsive)
-- Twitter - <a href="https://twitter.com/yoabno">@yoabno</a> 
+- Twitter - <a href="https://twitter.com/aaryamvn">@aaryamvn</a> 
 - Email - <a href="mailto:fullstackslayer@gmail.com">fullstackslayer@gmail.com</a>
