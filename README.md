@@ -6,7 +6,7 @@
 
 I'm also very passionate about software engineering and tech entrepreneurship. I've had a deep love for startups ever since I was 8 years old. 
 
-Momentarily, I'm working on <a href="https://buildergroop.com">Buildergroop</a>. It's a community enabling young innovators to learn, discuss, ideate, and build together. We're collectively establishing the future of technical innovation and we'd love for you to check us out.
+Momentarily, I'm working on <a href="https://buildergroop.com">Buildergroop</a>. It's a community enabling young innovators to learn, discuss, ideate, and build together. We're collectively establishing the future of technological innovation and we'd love for you to check us out.
 
 I love meeting people, Feel free to shoot me a message on any one of the following:
 
