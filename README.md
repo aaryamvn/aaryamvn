@@ -1,6 +1,7 @@
 <img src="https://media.discordapp.net/attachments/864826842707132446/930809278279848036/Profile_Banner_GH.png" />
 
-<br>
+![Hits](https://hits.link/hits?url=https%3A%2F%2Fgithub.com%2Faaryamvn)
+
 
 **Hey, I'm Aaryaman** - a 14-year-old innovator based in Hyderabad, India. I aspire to perfect the emotional connection between my products and their users via thoughtful design and strategic planning. 
 
@@ -13,3 +14,4 @@ I love meeting people, Feel free to shoot me a message on any one of the followi
 - Discord - Aaryaman#0001 (Most responsive)
 - Twitter - <a href="https://twitter.com/aaryamvn">@aaryamvn</a> 
 - Email - <a href="mailto:hey@aaryaman.io">hey@aaryaman.io</a>
+
