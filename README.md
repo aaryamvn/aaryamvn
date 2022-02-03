@@ -11,7 +11,7 @@ Momentarily, I'm working on <a href="https://buildergroop.com">Buildergroop</a>.
 
 I love meeting people, Feel free to shoot me a message on any one of the following:
 
-- Discord - aaryaman#0001 (Most responsive)
+- Discord - Aaryaman#0001 (Most responsive)
 - Twitter - <a href="https://twitter.com/aaryamvn">@aaryamvn</a> 
 - Email - <a href="mailto:hey@aaryaman.io">hey@aaryaman.io</a>
 
