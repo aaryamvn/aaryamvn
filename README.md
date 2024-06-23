@@ -2,7 +2,7 @@
 
 I have a strong passion for both technology and entrepreneurship. I've had a deep love for startups from a very young age, starting my career off at 8 years old by opening a cloud sandwich restaurant on Uber Eats.
 
-I'm the founder of <a href="https://buildergroop.com">Buildergroop</a>. We're a startup that enables passionate Gen-Z builders to learn, discuss, ideate, and collaborate. We're collectively establishing the future of innovation and we'd love for you to check us out.
+I'm the founder of <a href="https://buildergroop.com">Buildergroop</a>. We're an organisation that enables passionate Gen-Z builders to learn, discuss, ideate, and collaborate. We're collectively establishing the future of innovation and we'd love for you to check us out.
 
 Currently, I'm building in stealth at the intersection of EdTech and Social Good. DM me if you're interested!
 
