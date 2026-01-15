@@ -1,4 +1,4 @@
-**Hey, I'm Aaryaman** - a 17-year-old based in Hyderabad, India. I aspire to perfect the emotional connection between my products and their users via thoughtful design and strategic planning. 
+**Hey, I'm Aaryaman** - an 18-year-old based in Hyderabad, India. I aspire to perfect the emotional connection between my products and their users via thoughtful design and strategic planning. 
 
 I have a strong passion for both technology and entrepreneurship. I've had a deep love for startups from a very young age, starting my career off at 7 years old by opening a cloud sandwich restaurant on Uber Eats.
 
