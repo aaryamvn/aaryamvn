@@ -1,5 +1,3 @@
-🧙‍♂️ Product wizard
-
 Pittsburgh / San Francisco / Hyderabad
 
 Get in touch:
